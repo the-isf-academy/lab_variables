@@ -6,10 +6,11 @@
 
 from turtle import *
 
-#### 💻 YOUR CODE GOES HERE ####
+#### 💻 YOUR RESPONSIVE DRAWING GOES HERE ####
 
 forward(100)
 
 
 
-input()
+
+input("Type any key to close the program.")
