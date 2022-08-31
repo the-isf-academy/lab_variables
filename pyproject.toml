@@ -6,7 +6,6 @@ authors = ["emmaqbrown <eqbrown@isf.edu.hk>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-turtle = "^0.0.2"
 
 [tool.poetry.dev-dependencies]
 
