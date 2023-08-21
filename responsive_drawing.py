@@ -1,14 +1,10 @@
-#####################
-# Unit 0 Lab 2 
 # responsive_drawing.py
-# Author: YOUR NAME GOES HERE
-#####################
 
 from turtle import *
 
 #### 💻 YOUR RESPONSIVE DRAWING GOES HERE ####
-
-forward(100)
+length = int(input('Enter a number: '))
+forward(length)
 
 
 
